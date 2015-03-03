@@ -1,10 +1,14 @@
 #include "myStack.h"
 
-// estas variáveis são definidas como externas porque 
-// foram declaradas fora deste include e são variáveis globais
-extern int * arrayStack;
-extern int arrayStackSize;
-extern int topoStack;
+int * arrayStack;
+int arrayStackSize = -1;
+int topoStack = -1;
+
+//// estas variáveis são definidas como externas porque 
+//// foram declaradas fora deste include e são variáveis globais
+//extern int * arrayStack;
+//extern int arrayStackSize;
+//extern int topoStack;
 
 bool createStack(int limite){
 	if (arrayStack == nullptr){

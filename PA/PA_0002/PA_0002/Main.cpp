@@ -5,9 +5,6 @@
 
 using namespace std;
 
-int * arrayStack;
-int arrayStackSize = -1; 
-int topoStack = -1;
 
 int main(int argc, char* argv[]){
 	

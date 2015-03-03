@@ -5,6 +5,7 @@
 
 using namespace std;
 
+#pragma region Funções Auxiliares
 void changeMe(int &var){
 	int* aux;	
 	aux = &var;	
@@ -22,6 +23,7 @@ void changeMe(int &var){
 void changeMeAlso(int* var){
 	*var = 16;
 }
+#pragma endregion
 
 int main(int argc, char* argv[]){
 	int n = 10;
@@ -34,6 +36,7 @@ int main(int argc, char* argv[]){
 	Stack myStk;
 	createStack(&myStk, 6);
 
+	#pragma region Push
 	int valor = 10;
 	if (!push(valor, &myStk)) cout << "Não foi possível inserir" << endl; else cout << "Inserido=>" << valor++ << endl;
 	if (!push(valor, &myStk)) cout << "Não foi possível inserir" << endl; else cout << "Inserido=>" << valor++ << endl;
@@ -43,7 +46,9 @@ int main(int argc, char* argv[]){
 	if (!push(valor, &myStk)) cout << "Não foi possível inserir" << endl; else cout << "Inserido=>" << valor++ << endl;
 	if (!push(valor, &myStk)) cout << "Não foi possível inserir" << endl; else cout << "Inserido=>" << valor++ << endl;
 	if (!push(valor, &myStk)) cout << "Não foi possível inserir" << endl; else cout << "Inserido=>" << valor++ << endl;
+	#pragma endregion
 
+	#pragma region Pop
 	int res = pop(&myStk);
 	if (res == NULL) cout << "Stack vazia" << endl; else cout << "Valor retirado =>" << res << endl;
 	res = pop(&myStk);
@@ -66,7 +71,8 @@ int main(int argc, char* argv[]){
 	if (res == NULL) cout << "Stack vazia" << endl; else cout << "Valor retirado =>" << res << endl;
 	res = pop(&myStk);
 	if (res == NULL) cout << "Stack vazia" << endl; else cout << "Valor retirado =>" << res << endl;
-	
+	#pragma endregion
+
 	destroyStack(&myStk);
 	system("pause");
 	return 1;
