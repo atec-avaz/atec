@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula01\bin\Debug\Aula01.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula01\bin\Debug\Aula01.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula01\bin\Debug\Aula01.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula01\obj\Debug\Aula01.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula01\obj\Debug\Aula01.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula01\obj\Debug\Aula01.csprojResolveAssemblyReference.cache

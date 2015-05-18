@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\SistemaVenda\bin\Debug\SistemaVenda.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\SistemaVenda\bin\Debug\SistemaVenda.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\SistemaVenda\obj\Debug\SistemaVenda.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\SistemaVenda\obj\Debug\SistemaVenda.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\SistemaVenda\obj\Debug\SistemaVenda.pdb

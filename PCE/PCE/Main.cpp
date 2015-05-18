@@ -7,6 +7,13 @@ struct node{
 	node* next;
 };
 
+struct jogador{
+	int numero;
+	string nome;
+	char peca;
+	jogador* next;
+};
+
 void inserirNoInicio(node * & raiz, int numero);
 void inserirNoFinal(node * &raiz, int numero);
 void inserirDepoisDe(node * & raiz, int numero, int pesquisa);
@@ -40,7 +47,11 @@ int main()
 
 	ordenarListaDesc(root);
 	listarLista(root);
-		
+	
+
+
+	cout << "António Vaz" << endl;
+
 	system("pause");
 }
 
@@ -108,17 +119,12 @@ void inserirNoFinal(node * & raiz, int numero){
 }
 
 void ordenarListaAsc(node * & raiz)
-{
-	if (raiz != 0)
-	{
-		node* current = raiz;
-		node* prev = 0;
-		node* tempNode = 0;
-		bool hasChanges = false;
+{	if (raiz != NULL)
+	{	node* current = raiz; node* prev = 0; node* tempNode = 0; bool hasChanges = false;
 
 		while (!hasChanges)
 		{
-			while (current->next != 0)
+			while (current->next != NULL)
 			{
 				tempNode = current->next;
 
@@ -128,17 +134,14 @@ void ordenarListaAsc(node * & raiz)
 					current->next = tempNode->next;
 					tempNode->next = current;
 					
-					if (prev != NULL)
-						prev->next = tempNode;
+					if (prev != NULL)  prev->next = tempNode;
 
 					prev = tempNode;
 
-					if (raiz == current)
-						raiz = tempNode;					
+					if (raiz == current) raiz = tempNode;					
 				}
 				else
-				{
-					prev = current;
+				{   prev = current;
 					current = current->next;
 				}
 			}
@@ -200,3 +203,7 @@ void ordenarListaDesc(node * & raiz)
 		}
 	}
 }
+//
+//void inserirJogador(jogador * & raiz, ){
+//
+//}

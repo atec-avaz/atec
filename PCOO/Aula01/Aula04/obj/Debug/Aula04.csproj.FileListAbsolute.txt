@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\bin\Debug\Aula04.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\bin\Debug\Aula04.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\bin\Debug\Aula04.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\obj\Debug\Aula04.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\obj\Debug\Aula04.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\obj\Debug\Aula04.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\bin\Debug\SistemaVenda.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\Aula01\Aula04\bin\Debug\SistemaVenda.pdb
