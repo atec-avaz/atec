@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\bin\Debug\MyChessClient.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\bin\Debug\MyChessClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\bin\Debug\MyChessClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\bin\Debug\MyChess.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\bin\Debug\MyChess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\obj\Debug\MyChessClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\obj\Debug\MyChessClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChessClient\obj\Debug\MyChessClient.pdb

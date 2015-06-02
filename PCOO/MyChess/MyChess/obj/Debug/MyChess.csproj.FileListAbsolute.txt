@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChess\obj\Debug\MyChess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChess\bin\Debug\MyChess.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChess\bin\Debug\MyChess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChess\obj\Debug\MyChess.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GIT\PCOO\MyChess\MyChess\obj\Debug\MyChess.pdb
